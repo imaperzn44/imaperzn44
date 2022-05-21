@@ -12,6 +12,10 @@
 
 ### [Discord](https://discord.com)
 
+### [Windows 10](https://app.apponfly.com/trial)
+
+### [Brave Browser](https://search.brave.com)
+
 ### [Instagram](https://instagram.com)
 
 ### [Bing](https://bing.com)
@@ -21,6 +25,8 @@
 ### [Minecraft](https://now.gg/apps/mojang/2534/minecraft-trial.html)
 
 ### [GeForce NOW](https://www.nvidia.com/en-us/geforce-now/)
+
+### [Replit](https://replit.com/~)
 
 ---------------------------------------------------------
 
